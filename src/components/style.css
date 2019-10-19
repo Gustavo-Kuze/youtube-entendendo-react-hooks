@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.inputs {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn {
+    height: 50px;
+    width: 30%;
+    font-size: 18px;
+    margin-top: 25px;
+    background-color: #F5F5F577;
+    border: none;
+    color: #fff;
+}
+
+.chk {
+    height: 20px;
+    width: 50px;
+    border: none;
+}
